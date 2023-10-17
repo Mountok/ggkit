@@ -1,0 +1,34 @@
+.home_block{
+    padding: 20px 30px;
+    display: flex;
+    background-color: hsl(120, 79%, 54%);
+    border-radius: 20px;
+}
+.home_block_content{
+    padding: 20px 0;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.home_block_content-title{
+    font-size: 30px;
+}
+.home_block_content-subtitle{
+    width: 70%;
+}
+.home_block_content-button{
+    padding: 10px 17px;
+    border-radius: 7.5px;
+    background-color: hsl(229, 100%, 50%);
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;   
+}
+.home_block_image{
+    background-color: grey;
+    width: 50%;
+
+    height: 300px;
+}

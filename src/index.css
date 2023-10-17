@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway'),
+  url('./assets/fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+:root {
+  min-width: 380px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: 'Raleway';
+  position: relative;
+  padding: 0 20px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.small_text{
+  font-size:40px;
+}

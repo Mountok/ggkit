@@ -1,0 +1,12 @@
+{
+    "name": "Konfa",
+    "short_name": "Konfa",
+    "icons": [{
+        "src":"/app_logo_250px.png",
+        "sizes": "250x250",
+        "type": "image/png"
+    }],
+    "display": "fullscreen",
+    "background_color": "#fff",
+    "description": "Konfa - это платформа где вы можете делиться со своим опытом, путешествиями или просто узнать для себя что-то новое"
+}
